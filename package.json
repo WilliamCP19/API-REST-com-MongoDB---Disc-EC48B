@@ -1,0 +1,19 @@
+{
+  "name": "sgbd_ec48b",
+  "version": "1.0.0",
+  "description": "API para controle de tarefas usando um SGBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "WilliamCP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
