@@ -5,8 +5,8 @@ Foi minha primeira experiência com o Banco MongoDB, já utilizei Google Firebas
 Para me desafiar ainda mais, decide utilizar o mongo em um container Docker.
 
 ***
-
-Todas as dependencias do projeto se encontram no arquivo ***package.json***!
+## Certifique de atualizar a URL para se conectar ao MongoDB!!!
+### Todas as dependencias do projeto se encontram no arquivo ***package.json***!
 
 Porém a pasta ***node_modules*** não está presente neste diretório, sendo necessário antes de executar o programa baixar as dependência com o comando:
 
